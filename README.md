@@ -11,11 +11,11 @@ npm run dev
 
 📋 Funcionalidades
 
-✅ Login e Cadastro - Autenticação de usuários.
-✅ CRUD de Clientes - Criar, listar, editar e excluir clientes.
-✅ Validações - CPF/CNPJ, telefone, e-mail.
-✅ Design Responsivo - Mobile, tablet e desktop.
-✅ Persistência - Dados salvos no localStorage.
+- ✅ Login e Cadastro - Autenticação de usuários.
+- ✅ CRUD de Clientes - Criar, listar, editar e excluir clientes.
+- ✅ Validações - CPF/CNPJ, telefone, e-mail.
+- ✅ Design Responsivo - Mobile, tablet e desktop.
+- ✅ Persistência - Dados salvos no localStorage.
 
 👤 Primeiro Uso
 - Acesse a página de registro (/register)

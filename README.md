@@ -1,13 +1,13 @@
 🚀 Como Executar
 
 bash
-# Instalar dependências
+## Instalar dependências
 npm install
 
-# Executar em desenvolvimento
+## Executar em desenvolvimento
 npm run dev
 
-# Acesse: http://localhost:3000
+## Acesse: http://localhost:3000
 
 📋 Funcionalidades
 
